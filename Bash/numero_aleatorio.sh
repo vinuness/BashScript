@@ -22,4 +22,4 @@ do
     fi
 done
 
-echo $numero
+echo "Numero correto: $numero"
